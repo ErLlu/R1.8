@@ -2,7 +2,7 @@
   "name": "secondProgram",
   "version": "1.0.0",
   "description": "",
-  "main": "js/secondProgram.js",
+  "main": "js/index.js",
   "scripts": {
     "start": "node ."
   },
